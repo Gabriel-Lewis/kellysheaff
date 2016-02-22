@@ -728,8 +728,7 @@
 			position: relative;
 			display: block;
 			margin-bottom: 1.5em;
-			width:100px;
-			height:100px;
+			
 		}
 
 			#main .avatar img {
@@ -737,6 +736,8 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
+				width:100px;
+			height:100px;
 			}
 
 			#main .avatar:before {
