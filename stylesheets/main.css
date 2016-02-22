@@ -85,10 +85,10 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://images.unsplash.com/photo-1450340197730-6ea1cbb5e385?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=b0f5ed6e998bf4decf3ffbaa58f60c7a");
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://images.unsplash.com/photo-1450340197730-6ea1cbb5e385?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=b0f5ed6e998bf4decf3ffbaa58f60c7a");
+		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://images.unsplash.com/photo-1450340197730-6ea1cbb5e385?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=b0f5ed6e998bf4decf3ffbaa58f60c7a");
+		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://images.unsplash.com/photo-1450340197730-6ea1cbb5e385?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=b0f5ed6e998bf4decf3ffbaa58f60c7a");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
